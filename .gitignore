@@ -1,5 +1,7 @@
 # cache of python executables
 Code/__pycache__
 
-
+Code/training
+Code/validation
+Code/training_aug
 
