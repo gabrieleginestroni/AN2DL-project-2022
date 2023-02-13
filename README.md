@@ -7,7 +7,7 @@ This repository contains two projects related to Artificial Neural Networks and 
 - ###  [Tommaso Capacci](https://github.com/TommasoCapacci)
 - ###  [Simone Giampà](https://github.com/SimonGiampy)
 
-Final score: 11/11 <br>
+![Generic badge](https://img.shields.io/badge/Final_score:-11/11-<COLOR>.svg) <br>
 Professor: Matteo Matteucci 
 
 ### Prerequisites
