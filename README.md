@@ -1,13 +1,13 @@
 # Plant Classification and Time Series Classification
 
-This repository contains two projects related to AN2DL 2022/2023 course 
+This repository contains two projects related to Artificial Neural Networks and Deep Learning 2022/2023 course held at Politecnico di Milano
 
 ## Group members (with person code):
 - ###  [Gabriele Ginestroni](https://github.com/gabrieleginestroni)
 - ###  [Tommaso Capacci](https://github.com/TommasoCapacci)
 - ###  [Simone Giampà](https://github.com/SimonGiampy)
 
-Final score: 11/11
+Final score: 11/11 <br>
 Professor: Matteo Matteucci 
 
 ### Prerequisites
