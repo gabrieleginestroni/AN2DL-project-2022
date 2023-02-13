@@ -2,7 +2,7 @@
 
 This repository contains two projects related to Artificial Neural Networks and Deep Learning 2022/2023 course held at Politecnico di Milano
 
-## Group members (with person code):
+## Group members:
 - ###  [Gabriele Ginestroni](https://github.com/gabrieleginestroni)
 - ###  [Tommaso Capacci](https://github.com/TommasoCapacci)
 - ###  [Simone Giampà](https://github.com/SimonGiampy)
